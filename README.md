@@ -6,7 +6,7 @@ Ever wonder where your favorite stocks might be heading in the next 10 days? Thi
   Open your terminal (or Windows Command Prompt).
   Navigate to the directory where you want to store the project.
   Run the following command to clone the repository:
-  **git clone https://github.com/yourusername/Hybrid-Stock-Predictor.git**
+  **git clone https://github.com/ShahmeerSajid/StockShockWaveWizard.git**
 
 - Navigate into the project directory:
   **cd Stock\Price\Predictor\ML\Model**
@@ -18,6 +18,6 @@ Ever wonder where your favorite stocks might be heading in the next 10 days? Thi
 - Launch the Application:
   Start the Streamlit app by running: **streamlit run Stock_Prediction_ML_Model.py**
   
-For a detailed explanation of the project, please check this out: https://devpost.com/software/stock-shockwave-wizard
+For a full explanation of the project, check this out:  https://devpost.com/software/stock-shockwave-wizard
 
 **Now sit back, relax, and enjoy exploring the future of your favorite stocks with this tool! Happy predicting!**
