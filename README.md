@@ -1,5 +1,9 @@
 # StockShockWaveWizard (What does it do?)
-Ever wonder where your favorite stocks might be heading in the next 10 days? This project is here to help you figure that out! We’ve built a tool that predicts the Adjusted Close prices of any stock, using a powerful combination of traditional methods like ARIMA and modern techniques like LSTM neural networks. The best part? It pulls in real-time data straight from Yahoo Finance, so you’re always working with the latest information.
+Ever find yourself daydreaming about where your favorite stocks might be heading in the next 10 days? Well, it’s time to stop dreaming and start predicting with StockShockWaveWizard—the machine learning model that’s part crystal ball, part financial guru! This isn’t just any stock prediction tool; it’s like having your very own wizard who’s mastered the art of forecasting.
+
+Our StockShockWaveWizard doesn’t rely on just one trick. It uses a spellbinding mix of tried-and-true methods like ARIMA (because sometimes the classics never fail) and cutting-edge LSTM neural networks (for those who like their predictions with a dash of high-tech magic). And the best part? This wizard pulls real-time data straight from Yahoo Finance, ensuring that your predictions are as fresh as a new spell.
+
+So, whether you’re a seasoned trader or just someone who enjoys dabbling in the stock market’s mysteries, StockShockWaveWizard is here to guide you. With this model by your side, you’ll be navigating the financial waves like a pro—no wand required! Get ready to ride the stock market rollercoaster with confidence, because with StockShockWaveWizard, the future is in your hands.
 
 **--->** For a full explanation of the project, check this out:  https://devpost.com/software/stock-shockwave-wizard
 
