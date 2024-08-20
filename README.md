@@ -1,2 +1,4 @@
 # StockShockWaveWizard
-Curious where your favorite stocks might be headed? This project pulls data from Yahoo Finance to predict the next 10 days of 'Adjusted Close' stock prices. Just enter a stock ticker, and you’ll get a quick forecast with easy-to-read charts. Whether you’re curious or investing, this tool has you covered! See where the market might take you!
+Ever wonder where your favorite stocks might be heading in the next 10 days? This project is here to help you figure that out! We’ve built a tool that predicts the Adjusted Close prices of any stock, using a powerful combination of traditional methods like ARIMA and modern techniques like LSTM neural networks. The best part? It pulls in real-time data straight from Yahoo Finance, so you’re always working with the latest information.
+
+For a detailed explanation of the project, please check this out: https://devpost.com/software/stock-shockwave-wizard
