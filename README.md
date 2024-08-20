@@ -18,6 +18,6 @@ Ever wonder where your favorite stocks might be heading in the next 10 days? Thi
 - Launch the Application:
   Start the Streamlit app by running: **streamlit run Stock_Prediction_ML_Model.py**
   
-For a full explanation of the project, check this out:  https://devpost.com/software/stock-shockwave-wizard
+**--->** For a full explanation of the project, check this out:  https://devpost.com/software/stock-shockwave-wizard
 
 **Now sit back, relax, and enjoy exploring the future of your favorite stocks with this tool! Happy predicting!**
