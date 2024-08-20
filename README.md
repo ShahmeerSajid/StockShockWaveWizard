@@ -5,7 +5,7 @@ StockShockWaveWizard is all about making your life easier. It pulls in real-time
 
 So, whether you’re a seasoned trader or just someone who loves to keep an eye on the market, StockShockWaveWizard is here to guide you. With this model by your side, you’ll be riding the waves of the stock market like a pro—no magic wand required! Get ready to see the future of your favorite stocks unfold right before your eyes.
 
-**--->** For a full explanation of the project, check this out:  https://devpost.com/software/stock-shockwave-wizard
+**--->** Want the whole story behind this project? Dive in here for all the details: https://devpost.com/software/stock-shockwave-wizard
 
 # How to Run the Project:
 - Clone the Repository:
