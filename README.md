@@ -1,9 +1,9 @@
 # StockShockWaveWizard (What does it do?)
-Ever find yourself daydreaming about where your favorite stocks might be heading in the next 10 days? Well, it’s time to stop dreaming and start predicting with StockShockWaveWizard—the machine learning model that’s part crystal ball, part financial guru! This isn’t just any stock prediction tool; it’s like having your very own wizard who’s mastered the art of forecasting.
+Ever find yourself daydreaming about where your favorite stocks might be heading in the next 10 days? Well, it’s time to stop dreaming and start predicting with StockShockWaveWizard—the machine learning model that’s like having a financial fortune teller in your pocket! This isn’t just any stock prediction tool; it’s your go-to wizard for seeing into the future of the stock market.
 
-Our StockShockWaveWizard doesn’t rely on just one trick. It uses a spellbinding mix of tried-and-true methods like ARIMA (because sometimes the classics never fail) and cutting-edge LSTM neural networks (for those who like their predictions with a dash of high-tech magic). And the best part? This wizard pulls real-time data straight from Yahoo Finance, ensuring that your predictions are as fresh as a new spell.
+StockShockWaveWizard is all about making your life easier. It pulls in real-time data straight from Yahoo Finance, so you’re always working with the latest information. Whether you’re curious about a stock’s next big move or you’re planning your next big investment, this wizard has got your back. No more guesswork, just solid, data-driven predictions to help you stay ahead of the game.
 
-So, whether you’re a seasoned trader or just someone who enjoys dabbling in the stock market’s mysteries, StockShockWaveWizard is here to guide you. With this model by your side, you’ll be navigating the financial waves like a pro—no wand required! Get ready to ride the stock market rollercoaster with confidence, because with StockShockWaveWizard, the future is in your hands.
+So, whether you’re a seasoned trader or just someone who loves to keep an eye on the market, StockShockWaveWizard is here to guide you. With this model by your side, you’ll be riding the waves of the stock market like a pro—no magic wand required! Get ready to see the future of your favorite stocks unfold right before your eyes.
 
 **--->** For a full explanation of the project, check this out:  https://devpost.com/software/stock-shockwave-wizard
 
