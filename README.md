@@ -1,6 +1,8 @@
 # StockShockWaveWizard (What does it do?)
 Ever wonder where your favorite stocks might be heading in the next 10 days? This project is here to help you figure that out! We’ve built a tool that predicts the Adjusted Close prices of any stock, using a powerful combination of traditional methods like ARIMA and modern techniques like LSTM neural networks. The best part? It pulls in real-time data straight from Yahoo Finance, so you’re always working with the latest information.
 
+**--->** For a full explanation of the project, check this out:  https://devpost.com/software/stock-shockwave-wizard
+
 # How to Run the Project:
 - Clone the Repository:
   Open your terminal (or Windows Command Prompt).
@@ -17,7 +19,6 @@ Ever wonder where your favorite stocks might be heading in the next 10 days? Thi
   
 - Launch the Application:
   Start the Streamlit app by running: **streamlit run Stock_Prediction_ML_Model.py**
-  
-**--->** For a full explanation of the project, check this out:  https://devpost.com/software/stock-shockwave-wizard
 
+  
 **Now sit back, relax, and enjoy exploring the future of your favorite stocks with this tool! Happy predicting!**
