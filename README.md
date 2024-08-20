@@ -11,7 +11,7 @@ Ever wonder where your favorite stocks might be heading in the next 10 days? Thi
   **git clone https://github.com/ShahmeerSajid/StockShockWaveWizard.git**
 
 - Navigate into the project directory:
-  **cd Stock_Price_Predictor_ML_Model**
+  **cd StockShockWaveWizard/Stock_Price_Predictor_ML_Model**
 
 - Install Dependencies:
   Make sure you have Python installed.
