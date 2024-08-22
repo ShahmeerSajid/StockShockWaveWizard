@@ -23,7 +23,7 @@ So, whether you’re a seasoned trader or just someone who loves to keep an eye 
   
      **pip install -r library_installations.txt**
 - Make sure you have the latest version of yfinacnce (The financial set used for this model):
-    ** pip --install --upgrade yfinance**
+    **pip --install --upgrade yfinance**
 - Launch the Application:
   Start the Streamlit app by running: **streamlit run Stock_Prediction_ML_Model.py**
 
