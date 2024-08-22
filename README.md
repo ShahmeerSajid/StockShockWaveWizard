@@ -17,13 +17,16 @@ So, whether you’re a seasoned trader or just someone who loves to keep an eye 
 - Navigate into the project directory:
   **cd StockShockWaveWizard/Stock_Price_Predictor_ML_Model**
 
+- Upgrade to the latest version of pip by running either :
+  **python -m pip install --upgrade pip**   OR   **python3 -m pip install --upgrade pip**
+  
 - Install Dependencies:
   Make sure you have Python installed.
-  Install the required packages by running:
+  Install the required packages by running:  **pip install -r library_installations.txt**
   
-     **pip install -r library_installations.txt**
 - Make sure you have the latest version of yfinance (The financial dataset used for this model):
     **pip --install --upgrade yfinance**
+  
 - Launch the Application:
   Start the Streamlit app by running: **streamlit run Stock_Prediction_ML_Model.py**
 
