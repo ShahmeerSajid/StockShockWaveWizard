@@ -20,9 +20,8 @@ So, whether you’re a seasoned trader or just someone who loves to keep an eye 
 - Install Dependencies:
   Make sure you have Python installed.
   Install the required packages by running:
-  **python -m pip install --upgrade pip**
-  
-  **pip install -r library_installations.txt**
+     **python -m pip install --upgrade pip**
+     **pip install -r library_installations.txt**
   
 - Launch the Application:
   Start the Streamlit app by running: **streamlit run Stock_Prediction_ML_Model.py**
